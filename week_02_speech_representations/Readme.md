@@ -4,7 +4,7 @@
   <img src="../images/dls.png">
 </div>
 
-### Введение в аудио.
+### Audio representations
 
 В этом модуле вы познакомитесь с Fourier Serier, Fourier Transform, STFT и Mel-Scale и узнаете как представлять звук в частотном спектре.
 
