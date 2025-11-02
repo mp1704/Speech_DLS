@@ -7,6 +7,6 @@
 
 ### Домашнее задание
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_06_speech_asr_2/Practice/asr_hw.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_06_speech_asr_2/Homework/asr_hw.ipynb)
 
 В домашнем задании вам предстоит реализовать архитектуру Conformer по статье, написать свой класс CTC-loss'а на torch и обучить ваш Conformer с вашим лоссов на датасете LibriSpeech. Во второй части домашнего задания вам нужно будет адаптировать вашу модель к аудио из медицинского домена, реализовать shallow fusion подход с N-Gram и с RNN-LM моделями. Результатом вашей работы станет пайплайн с обученной вами моделью, которая сохранит высокое качество распознавания на LibriSpeech и достигнет достаточного качества на данных медицинского домена.
