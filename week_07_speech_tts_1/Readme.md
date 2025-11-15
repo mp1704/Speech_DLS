@@ -17,7 +17,7 @@
 
 ### Семинар
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_09_speech_deepfakes/Practice/Seminar_Deepfakes_and_XAI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_07_speech_tts_1/Practice/seminar.ipynb)
 
 
 
