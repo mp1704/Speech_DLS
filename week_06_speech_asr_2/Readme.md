@@ -1,4 +1,13 @@
 
+## Материалы модуля 5
+
+<div align="center">
+  <img src="../images/dls.png">
+</div>
+
+### Распознавание речи. Часть 2.
+
+
 ### Лекция
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
   <span>Запись лекции &laquo;Распознавание речи, часть 2&raquo; доступна на</span>
