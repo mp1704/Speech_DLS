@@ -17,7 +17,7 @@
 
 ### Семинар
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_09_speech_deepfakes/Practice/Seminar_Deepfakes_and_XAI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_08_speech_tts_2/Practice/seminar2.ipynb)
 
 
 
@@ -26,4 +26,4 @@
 
 
 ### Домашнее задание
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_08_speech_tts_2/Homework/hw.ipynb)
