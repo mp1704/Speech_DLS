@@ -15,6 +15,9 @@
 
 
 ### Семинар
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_11_speech_low_resource_languages/Practice/dls.ipynb)
+
 На семинаре попробуем решить задачу переноса знаний на родственный (киргизский) язык. Рассмотрим как можно дообучить whisper распознавать язык, который он ранее не видел. Обсудим пайплайн обучения от загрузки данных, до инференса.
 
 

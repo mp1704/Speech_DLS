@@ -19,6 +19,9 @@
 В третьей части лекции продолжим обсуждение User Perceived Latency и перейдем к рассмотрению задачи Endpoint detection.
 
 ### Семинар
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_10_speech_voice_assistant_pipeline/Practice/dls_week_10_seminar.ipynb)
+
+
 
 На семинаре попробуем решить задачу определения конца голосового запроса. Рассмотрим, как извлечь признаки входящего аудиосигнала и в каком виде его можно представить для решения нашей задачи. Обучим простую модель, в основе которой будет использоваться LSTM-архитектура. Обсудим получившиеся результаты и посмотрим на краевые случаи работы нашей модели.
 
