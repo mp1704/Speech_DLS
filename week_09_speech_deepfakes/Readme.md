@@ -1,4 +1,4 @@
-## Материалы модуля 5
+## Материалы модуля 9
 
 <div align="center">
   <img src="../images/dls.png">
@@ -6,7 +6,7 @@
 
 ### Дипфейки и их детекция.
 
-
+В этом разделе мы поговорим с вами про одномодальные и мультимодальные (аудиовидео) дипфейки, про то, как они создаются и как их можно обнаружить, а также про интерпретируемость моделей.
 ### Лекция
 
 
@@ -27,4 +27,9 @@
 
 
 ### Домашнее задание
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_09_speech_deepfakes/Homework/antispoofing.ipynb)
+
+
+В этом домашнем задании вы разработаете модель против Deepfakes, а затем попробуете объяснить ее работу на основе XAI техник.
 

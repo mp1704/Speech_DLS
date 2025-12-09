@@ -1,5 +1,5 @@
 
-## Материалы модуля 5
+## Материалы модуля 6
 
 <div align="center">
   <img src="../images/dls.png">

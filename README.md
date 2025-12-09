@@ -23,3 +23,20 @@
 
 3. [SSL](./week_03_speech_ssl/README.md)
 
+4. [Аудио кодеки](./week_04_speech_codecs/README.md)
+
+5. [Распознавание речи](./week_05_speech_asr/README.md)
+
+6. [Распознавание речи. Часть 2.](./week_06_speech_asr_2/README.md)
+
+7. [Генерация речи, часть 1.](./week_07_speech_tts_1/README.md)
+
+8. [Генерация речи, современные подходы.](./week_08_speech_tts_2/README.md)
+
+9. [Дипфейки и их детекция.](./week_09_speech_deepfakes/README.md)
+
+10. [Voice Assistant Pipeline. Keyword & Endpoint Detection.](./week_10_speech_voice_assistant_pipeline/README.md)
+
+11. [Low-resource языки и non-English языки.](./week_11_speech_low_resource_languages/README.md)
+
+12. [LLM.](./week_12_speech_llm/README.md)
