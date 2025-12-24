@@ -23,6 +23,7 @@
 
 
 ### Домашнее задание
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_11_speech_low_resource_languages/Homework/dz.ipynb)
 
 Домашнее задание будет разделено на две части, в которых необходимо модифицировать код, рассмотренный на семинаре, реализовав два, незаменимых на практике механизма:
 (1) Взвешивание наборов данных в рамках одного датасета (семплирование примеров с разной частотностью);
