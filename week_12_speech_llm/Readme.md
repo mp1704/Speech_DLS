@@ -27,7 +27,7 @@ SOTA модели: Обзор архитектурных решений в Qwen-
 
 ### Домашнее задание
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_11_speech_low_resource_languages/Homework/audiollm-hw.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningSchool/Speech/blob/main/week_12_speech_llm/Homework/audiollm-hw.ipynb)
 
 В домашнем задании будет предложено проделать похожие с семинаром действия, но с углублением в архитектуру модели:
 1. Реализовать подход генерации синтетических AudioQA-данных на основе ASR-датасета
